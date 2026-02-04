@@ -1,4 +1,4 @@
-# 💫 Mufasa (Musa)
+# 💫 Moses (Musa)
 **Android Developer | 3D/AR Enthusiast | CS Student**
 
 Hi, I’m **Musa**, also known as **Mufasa** online — an Android developer building apps that combine **clean UI, solid performance, and 3D/AR experiences**.  
@@ -64,9 +64,9 @@ Offline book, search, and favorites
 ## 📊 GitHub Stats
 
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=Mufasa&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api?username=Mufasa&show_icons=true&theme=default" media="(prefers-color-scheme: light)" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Mufasa&show_icons=true" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=MUSA-ANN1&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=MUSA-ANN1&show_icons=true&theme=default" media="(prefers-color-scheme: light)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MUSA-ANN1&show_icons=true" />
 </picture>
 
 ---
