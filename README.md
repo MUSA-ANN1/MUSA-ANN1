@@ -46,11 +46,12 @@ CSV-based dictionary with fast lookup.
 
 ## 📫 Contact
 **Email:** musa.annaguliev@gmail.com
+**GitHub:** you’re already here 🙂
 
 ---
 
 ## ⚡ Fun Info
-- Naruto fan  
 - Loves cameras & GoPro  
+- Teamwork believer
 
 ---
