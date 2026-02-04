@@ -51,7 +51,7 @@ CSV-based dictionary with fast lookup.
 ---
 
 ## ⚡ Fun Info
-- Loves cameras & GoPro  
+- Loves cameras & GoPro
 - Teamwork believer
 
 ---
