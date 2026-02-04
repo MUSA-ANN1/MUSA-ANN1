@@ -24,11 +24,13 @@ I focus on practical projects that solve real problems.
 ## 📱 Published Apps (Google Play)
 ### 🔹 Mental Arithmetic + Career Advisor  
 Custom-speed arithmetic + job suggestion system  
-👉 https://play.google.com/store/apps/details?id=com.berk.bilim
+👉 https://play.google.com/store/apps/details?id=com.berk.bilim  
+![Mental Arithmetic Logo](app1_logo.png)
 
 ### 🔹 Turkmenistanyn Dermanlyk Ösimlikleri  
 Offline book, search, and favorites  
-👉 https://play.google.com/store/apps/details?id=com.medicine.kitaphana
+👉 https://play.google.com/store/apps/details?id=com.medicine.kitaphana  
+![Herbal Plants Logo](app2_logo.png)
 
 ---
 
@@ -47,6 +49,28 @@ Offline book, search, and favorites
 
 ---
 
+## 🛡️ Badges
+![Java](https://img.shields.io/badge/Java-FF0000?logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=white)
+![3ds Max](https://img.shields.io/badge/3ds%20Max-1DA1F2?logo=autodesk&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=Mufasa&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=Mufasa&show_icons=true&theme=default" media="(prefers-color-scheme: light)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mufasa&show_icons=true" />
+</picture>
+
+---
+
 ## 📫 Contact
 **Email:** musa.annaguliev@gmail.com  
 **Instagram:** https://www.instagram.com/musa.annaguliev  
@@ -58,6 +82,4 @@ Offline book, search, and favorites
 ## ⚡ Fun Info
 - Naruto fan  
 - Loves cameras & GoPro  
-- Teamwork believer  
-
----
+- Teamwork believer
