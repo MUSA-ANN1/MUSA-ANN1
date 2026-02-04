@@ -1,8 +1,8 @@
 # 💫 Mufasa (Musa)
 **Android Developer | 3D/AR Enthusiast | CS Student**
 
-Hi, I’m **Musa**, also known as **Mufasa** online — an Android developer building apps that mix **clean UI + 3D/AR experiences**.  
-I focus on performance, good UX, and creating projects that actually help people.
+Hi, I’m **Musa**, also known as **Mufasa** online — an Android developer building apps that combine **clean UI, solid performance, and 3D/AR experiences**.  
+I focus on practical projects that solve real problems.
 
 ---
 
@@ -21,37 +21,43 @@ I focus on performance, good UX, and creating projects that actually help people
 
 ---
 
-## 📱 Current Projects
-### 🔹 Mental Arithmetic + Career Advisor App  
-Custom-speed arithmetic + job recommendation system.
+## 📱 Published Apps (Google Play)
+### 🔹 Mental Arithmetic + Career Advisor  
+Custom-speed arithmetic + job suggestion system  
+👉 https://play.google.com/store/apps/details?id=com.berk.bilim
 
-### 🔹 “Turkmen Medicine Plants” Offline Book  
-Search, favorites, green-themed UI, offline reading.
+### 🔹 Turkmenistanyn Dermanlyk Ösimlikleri  
+Offline book, search, and favorites  
+👉 https://play.google.com/store/apps/details?id=com.medicine.kitaphana
 
-### 🔹 Chemistry Mini-Translator  
-CSV-based dictionary with fast lookup.
+---
 
-### 🔹 AR Furniture Placement  
-3D models, realistic physics, Unity + Android integration.
+## 🛠 Current Projects
+- AR furniture placement app (Unity + Android)  
+- Chemistry mini-translator (CSV-based)  
+- UI/UX upgrades for offline book app  
 
 ---
 
 ## 🎯 Goals
-- Publish a polished AR app  
-- Improve 3D asset workflow  
-- Build a competitive portfolio for **MEXT scholarship**  
-- Develop visually aesthetic apps with high performance  
+- Build a polished AR app  
+- Improve 3D asset creation workflow  
+- Strengthen my portfolio for **MEXT**  
+- Release more clean, useful apps
 
 ---
 
 ## 📫 Contact
-**Email:** musa.annaguliev@gmail.com
-**GitHub:** you’re already here 🙂
+**Email:** musa.annaguliev@gmail.com  
+**Instagram:** https://www.instagram.com/musa.annaguliev  
+**Telegram:** https://t.me/Mu4asa  
+**IMO:** https://s.imoim.net/spEXKo  
 
 ---
 
 ## ⚡ Fun Info
-- Loves cameras & GoPro
-- Teamwork believer
+- Naruto fan  
+- Loves cameras & GoPro  
+- Teamwork believer  
 
 ---
