@@ -22,24 +22,26 @@ I focus on practical projects that solve real problems.
 ---
 
 ## 📱 Published Apps (Google Play)
-<div style="display:flex; flex-direction:row; align-items:center;">
+<div style="display:flex; flex-direction:column; gap:12px;">
 
-  <!-- Image (fixed like 30dp) -->
-  <img src="logo_BerkBilim.png" 
-       alt="Mental Arithmetic Logo" 
-       style="width:40px; height:40px; border-radius:8px; margin-right:12px;" />
+  <!-- Horizontal Row -->
+  <div style="display:flex; flex-direction:row; align-items:center;">
 
-  <!-- Text (takes rest of space) -->
-  <div style="flex:1;">
-    <b>Mental Arithmetic + Career Advisor</b><br>
-    Custom-speed arithmetic + job suggestion system<br>
-    👉 https://play.google.com/store/apps/details?id=com.berk.bilim
+    <!-- Image (fixed dp-like) -->
+    <img src="logo_BerkBilim.png"
+         alt="Mental Arithmetic Logo"
+         style="width:48px; height:48px; border-radius:10px; margin-right:14px;" />
+
+    <!-- Text (fills rest) -->
+    <div style="flex:1; font-size:15px;">
+      <b>Mental Arithmetic + Career Advisor</b><br>
+      Custom-speed arithmetic + job suggestion system<br>
+      👉 https://play.google.com/store/apps/details?id=com.berk.bilim
+    </div>
+
   </div>
 
 </div>
-
-</div>
-
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
 
