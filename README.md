@@ -39,7 +39,7 @@ I focus on practical projects that solve real problems.
 <table>
   <tr>
     <td width="120">
-      <img src="logo_BerkBilim.png" width="120">
+      <img src="logo_Dermanlyk.jpg" width="120">
     </td>
     <td>
       <h3>🔹 Turkmenistanyn Dermanlyk Ösimlikleri</h3>
