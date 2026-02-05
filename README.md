@@ -29,7 +29,12 @@ I focus on practical projects that solve real problems.
     </td>
     <td>
       <h3>🔹 Mental Arithmetic + Career Advisor</h3>
-      Custom-speed arithmetic + job suggestion system<br>
+      Custom-speed arithmetic + job suggestion system.<br>
+      The career test uses <b>160 questions</b>, each with <b>Yes/No</b> answers.<br>
+      Every “Yes” adds one point to its associated category.<br>
+      Example: Question 1, 11, 21, … all contribute to the same career group.<br>
+      After the final question, the app calculates which of the <b>10 job groups</b> has the highest score and shows the user’s recommended career direction.<br>
+      Simple logic, fast calculation, lightweight on device.<br>
       👉 <a href="https://play.google.com/store/apps/details?id=com.berk.bilim">Download</a>
     </td>
   </tr>
@@ -43,7 +48,10 @@ I focus on practical projects that solve real problems.
     </td>
     <td>
       <h3>🔹 Türkmenistanyň Dermanlyk Ösimlikleri</h3>
-      Offline book, search, and favorites<br>
+      Offline book, search, and favorites.<br>
+      Features <b>5 languages</b>: Turkmen, English, Russian, Japanese, Spanish.<br>
+      Includes detailed descriptions, scientific names, and herbal uses for Turkmen medicinal plants.<br>
+      Fully offline, fast search, favorites system, clean UI optimized for reading.<br>
       👉 <a href="https://play.google.com/store/apps/details?id=com.medicine.kitaphana">Download</a>
     </td>
   </tr>
