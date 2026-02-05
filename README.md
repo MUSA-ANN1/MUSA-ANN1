@@ -49,6 +49,7 @@ I focus on practical projects that solve real problems.
   </tr>
 </table>
 <br>
+
 ---
 
 ## 🛠 Current Projects
