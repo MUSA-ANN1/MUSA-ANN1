@@ -22,19 +22,21 @@ I focus on practical projects that solve real problems.
 ---
 
 ## 📱 Published Apps (Google Play)
-<div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
+<div style="display:flex; flex-direction:row; align-items:center;">
 
-  <!-- Logo -->
-  <div style="flex-shrink: 0; width: 90px;">
-    <img src="logo_BerkBilim.png" alt="Mental Arithmetic Logo" style="width: 100%; border-radius: 10px;" />
-  </div>
+  <!-- Image (fixed like 30dp) -->
+  <img src="logo_BerkBilim.png" 
+       alt="Mental Arithmetic Logo" 
+       style="width:40px; height:40px; border-radius:8px; margin-right:12px;" />
 
-  <!-- Text -->
-  <div style="flex: 1;">
-    <h3 style="margin: 0;">🔹 Mental Arithmetic + Career Advisor</h3>
+  <!-- Text (takes rest of space) -->
+  <div style="flex:1;">
+    <b>Mental Arithmetic + Career Advisor</b><br>
     Custom-speed arithmetic + job suggestion system<br>
     👉 https://play.google.com/store/apps/details?id=com.berk.bilim
   </div>
+
+</div>
 
 </div>
 
