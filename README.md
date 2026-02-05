@@ -62,7 +62,6 @@ I focus on practical projects that solve real problems.
 
 ## 🛠 Current Projects
 - AR furniture placement app (Unity + Android)  
-- Chemistry mini-translator (CSV-based)  
 - UI/UX upgrades for offline book app  
 
 ---
