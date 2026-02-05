@@ -34,9 +34,7 @@ I focus on practical projects that solve real problems.
       Includes detailed descriptions, scientific names, and herbal uses for Turkmen medicinal plants.<br>  
       Fully offline, fast search, favorites system, clean UI optimized for reading.<br><br>
 
-👉 <a href="https://play.google.com/store/apps/details?id=com.medicine.kitaphana">Download</a>  
-    </td>  
-  </tr><br><br>
+👉 <a href="https://play.google.com/store/apps/details?id=com.medicine.kitaphana">Download</a><br><br>
 
 👉 <a href="https://github.com/MUSA-ANN1/Turkmenistan-s-Medicinal-Plants-app">Source code</a>  
     </td>  
