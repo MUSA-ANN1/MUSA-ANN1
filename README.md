@@ -22,37 +22,33 @@ I focus on practical projects that solve real problems.
 ---
 
 ## 📱 Published Apps (Google Play)
-<div style="display:flex; flex-direction:column; align-items:center; text-align:center; width:100%; margin-bottom:20px;">
+<table>
+  <tr>
+    <td width="120">
+      <img src="logo_BerkBilim.png" width="120">
+    </td>
+    <td>
+      <h3>🔹 Mental Arithmetic + Career Advisor</h3>
+      Custom-speed arithmetic + job suggestion system<br>
+      👉 https://play.google.com/store/apps/details?id=com.berk.bilim
+    </td>
+  </tr>
+</table>
+<br>
 
-  <!-- ImageView -->
-  <img src="logo_BerkBilim.png"
-       alt="Mental Arithmetic Logo"
-       style="width:90px; height:90px; border-radius:15px; margin-bottom:10px;" />
-
-  <!-- TextView -->
-  <div style="font-size:15px;">
-    <b>🔹 Mental Arithmetic + Career Advisor</b><br>
-    Custom-speed arithmetic + job suggestion system<br>
-    👉 https://play.google.com/store/apps/details?id=com.berk.bilim
-  </div>
-
-</div>
-
-<div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
-
-  <!-- Logo -->
-  <div style="flex-shrink: 0; width: 90px;">
-    <img src="app2_logo.png" alt="Herbal Plants Logo" style="width: 100%; border-radius: 10px;" />
-  </div>
-
-  <!-- Text -->
-  <div style="flex: 1;">
-    <h3 style="margin: 0;">🔹 Turkmenistanyn Dermanlyk Ösimlikleri</h3>
-    Offline book, search, and favorites<br>
-    👉 https://play.google.com/store/apps/details?id=com.medicine.kitaphana
-  </div>
-
-</div>
+<table>
+  <tr>
+    <td width="120">
+      <img src="app2_logo.png" width="120">
+    </td>
+    <td>
+      <h3>🔹 Turkmenistanyn Dermanlyk Ösimlikleri</h3>
+      Offline book, search, and favorites<br>
+      👉 https://play.google.com/store/apps/details?id=com.medicine.kitaphana
+    </td>
+  </tr>
+</table>
+<br>
 
 ---
 
