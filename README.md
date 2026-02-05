@@ -91,9 +91,9 @@ I focus on practical projects that solve real problems.
 
 ## 📫 Contact
 **Email:** musa.annaguliev@gmail.com  
-**Instagram:** https://www.instagram.com/musa.annaguliev  
-**Telegram:** https://t.me/Mu4asa  
-**IMO:** https://s.imoim.net/spEXKo  
+**Instagram:** <a href="https://www.instagram.com/musa.annaguliev">musa.annaguliev</a> 
+**Telegram:** <a href="https://t.me/Mu4asa">𝓜𝓾𝓼𝓪</a>  
+**IMO:** <a href="https://s.imoim.net/spEXKo">M.</a>  
 
 ---
 
