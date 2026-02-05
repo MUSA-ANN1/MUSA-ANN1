@@ -42,7 +42,7 @@ I focus on practical projects that solve real problems.
       <img src="logo_Dermanlyk.jpg" width="120">
     </td>
     <td>
-      <h3>🔹 Turkmenistanyn Dermanlyk Ösimlikleri</h3>
+      <h3>🔹 Türkmenistanyň Dermanlyk Ösimlikleri</h3>
       Offline book, search, and favorites<br>
       👉 <a href="https://play.google.com/store/apps/details?id=com.medicine.kitaphana">Download</a>
     </td>
