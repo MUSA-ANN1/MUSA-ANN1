@@ -22,15 +22,33 @@ I focus on practical projects that solve real problems.
 ---
 
 ## 📱 Published Apps (Google Play)
-### 🔹 Mental Arithmetic + Career Advisor  
-Custom-speed arithmetic + job suggestion system  
-👉 https://play.google.com/store/apps/details?id=com.berk.bilim  
-![Mental Arithmetic Logo](logo_BerkBilim.png)
+<table>
+  <tr>
+    <td width="120">
+      <img src="logo_BerkBilim.png" width="120">
+    </td>
+    <td>
+      <h3>🔹 Mental Arithmetic + Career Advisor</h3>
+      Custom-speed arithmetic + job suggestion system<br>
+      👉 https://play.google.com/store/apps/details?id=com.berk.bilim
+    </td>
+  </tr>
+</table>
+<br>
 
-### 🔹 Turkmenistanyn Dermanlyk Ösimlikleri  
-Offline book, search, and favorites  
-👉 https://play.google.com/store/apps/details?id=com.medicine.kitaphana  
-![Herbal Plants Logo](app2_logo.png)
+<table>
+  <tr>
+    <td width="120">
+      <img src="app2_logo.png" width="120">
+    </td>
+    <td>
+      <h3>🔹 Turkmenistanyn Dermanlyk Ösimlikleri</h3>
+      Offline book, search, and favorites<br>
+      👉 https://play.google.com/store/apps/details?id=com.medicine.kitaphana
+    </td>
+  </tr>
+</table>
+<br>
 
 ---
 
