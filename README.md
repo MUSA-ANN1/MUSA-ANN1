@@ -25,7 +25,7 @@ I focus on practical projects that solve real problems.
 ### 🔹 Mental Arithmetic + Career Advisor  
 Custom-speed arithmetic + job suggestion system  
 👉 https://play.google.com/store/apps/details?id=com.berk.bilim  
-![Mental Arithmetic Logo](logo.png)
+![Mental Arithmetic Logo](logo_BerkBilim.png)
 
 ### 🔹 Turkmenistanyn Dermanlyk Ösimlikleri  
 Offline book, search, and favorites  
