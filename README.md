@@ -22,33 +22,23 @@ I focus on practical projects that solve real problems.
 ---
 
 ## 📱 Published Apps (Google Play)
-<table>
-  <tr>
-    <td>
-      <img src="logo_BerkBilim.png" width="170" />
-    </td>
-    <td>
-      <h3>🔹 Mental Arithmetic + Career Advisor</h3>
-      Custom-speed arithmetic + job suggestion system<br>
-      👉 https://play.google.com/store/apps/details?id=com.berk.bilim
-    </td>
-  </tr>
-</table>
-<br>
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="logo_BerkBilim.png" alt="Mental Arithmetic Logo" style="width: 140px; margin-right: 15px;" />
+  <div>
+    <h3>🔹 Mental Arithmetic + Career Advisor</h3>
+    Custom-speed arithmetic + job suggestion system<br>
+    👉 https://play.google.com/store/apps/details?id=com.berk.bilim
+  </div>
+</div>
 
-<table>
-  <tr>
-    <td>
-      <img src="app2_logo.png" width="170" />
-    </td>
-    <td>
-      <h3>🔹 Turkmenistanyn Dermanlyk Ösimlikleri</h3>
-      Offline book, search, and favorites<br>
-      👉 https://play.google.com/store/apps/details?id=com.medicine.kitaphana
-    </td>
-  </tr>
-</table>
-<br>
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="app2_logo.png" alt="Herbal Plants Logo" style="width: 140px; margin-right: 15px;" />
+  <div>
+    <h3>🔹 Turkmenistanyn Dermanlyk Ösimlikleri</h3>
+    Offline book, search, and favorites<br>
+    👉 https://play.google.com/store/apps/details?id=com.medicine.kitaphana
+  </div>
+</div>
 
 ---
 
