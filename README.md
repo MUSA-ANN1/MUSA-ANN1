@@ -63,9 +63,9 @@ Custom-speed arithmetic + job suggestion system.<br>
       Offline book, search, and favorites.<br>  
       Features <b>5 languages</b>: Turkmen, English, Russian, Japanese, Spanish.<br>  
       Includes detailed descriptions, scientific names, and herbal uses for Turkmen medicinal plants.<br>  
-      Fully offline, fast search, favorites system, clean UI optimized for reading.<br>  
+      Fully offline, fast search, favorites system, clean UI optimized for reading.<br>
 
-      👉 <a href="https://play.google.com/store/apps/details?id=com.medicine.kitaphana">Download</a>  
+👉 <a href="https://play.google.com/store/apps/details?id=com.medicine.kitaphana">Download</a>  
     </td>  
   </tr>  
 </table>  
