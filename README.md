@@ -28,8 +28,8 @@ I focus on practical projects that solve real problems.
       <img src="logo_BerkBilim.png" width="120">
     </td>
     <td>
-<h3>🔹 Mental Arithmetic + Career Advisor         </h3>
-Custom-speed arithmetic + job suggestion system.<br><br>
+<h3>🔹 Mental Arithmetic + Career Advisor</h3>
+Custom-speed arithmetic + job suggestion system.             <br><br>
 
 <b>🧠 Mental Arithmetic:</b><br>
 • Choose number range (1–10000)<br>
