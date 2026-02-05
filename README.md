@@ -55,14 +55,7 @@ Custom-speed arithmetic + job suggestion system.<br><br>
           </td>
         </tr>
       </table>
-    </td>
-  </tr>
-</table>
-<br>
 
-<table width="100%">
-  <tr>
-    <td>
       <table width="100%">
         <tr>
           <td width="120" valign="top">
@@ -78,6 +71,15 @@ Fully offline, fast search, favorites system, clean UI optimized for reading.<br
           </td>
         </tr>
       </table>
+    </td>
+  </tr>
+</table>
+<br>
+
+<table width="100%">
+  <tr>
+    <td>
+      
     </td>
   </tr>
 </table>
