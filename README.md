@@ -29,7 +29,7 @@ I focus on practical projects that solve real problems.
     </td>
     <td>
 <h3>🔹 Mental Arithmetic + Career Advisor</h3>
-Custom-speed arithmetic + job suggestion system.             <br><br>
+Custom-speed arithmetic + job suggestion system.<br><br>
 
 <b>🧠 Mental Arithmetic:</b><br>
 • Choose number range (1–10000)<br>
