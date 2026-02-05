@@ -30,7 +30,7 @@ I focus on practical projects that solve real problems.
     <td>
       <h3>🔹 Mental Arithmetic + Career Advisor</h3>
       Custom-speed arithmetic + job suggestion system<br>
-      👉 https://play.google.com/store/apps/details?id=com.berk.bilim
+      👉 <a href="https://play.google.com/store/apps/details?id=com.berk.bilim">Download</a>
     </td>
   </tr>
 </table>
@@ -39,12 +39,12 @@ I focus on practical projects that solve real problems.
 <table>
   <tr>
     <td width="120">
-      <img src="logo_BerkBilim.png" width="120">
+      <img src="logo_Herbal.png" width="120">
     </td>
     <td>
       <h3>🔹 Turkmenistanyn Dermanlyk Ösimlikleri</h3>
       Offline book, search, and favorites<br>
-      👉 https://play.google.com/store/apps/details?id=com.medicine.kitaphana
+      👉 <a href="https://play.google.com/store/apps/details?id=com.medicine.kitaphana">Download</a>
     </td>
   </tr>
 </table>
