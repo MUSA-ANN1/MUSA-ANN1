@@ -21,35 +21,35 @@ I focus on practical projects that solve real problems.
 
 ---
 
-## 📱 Published Apps (Google Play)  
-<table>  
-  <tr>  
-    <td width="120" valign="top">  
-      <img src="logo_BerkBilim.png" width="120">  
-    </td>  
-    <td>  
-<h3>🔹 Mental Arithmetic + Career Advisor</h3>  
-Custom-speed arithmetic + job suggestion system.<br><br>  
-  
-<b>🧠 Mental Arithmetic:</b><br>  
-• Choose number range (1–10000)<br>  
-• Choose speed (very slow → ultra fast)<br>  
-• Numbers appear one-by-one at chosen speed<br>  
-• User calculates total mentally<br>  
-• Enter final answer at the end<br>  
-• App checks correctness & saves results<br>  
-• Great for focus, accuracy, and brain training<br><br>  
-  
-<b>🎓 Career Advisor:</b><br>  
-• 160 Yes/No questions<br>  
-• Each Yes adds points to 1 of 10 career groups<br>  
-• Example: questions 1, 11, 21… belong to group 1<br>  
-• System finds the highest score at the end<br>  
-• Suggests the most suitable job field<br><br>  
-  
-👉 <a href="https://play.google.com/store/apps/details?id=com.berk.bilim">Download</a>  
-    </td>  
-  </tr>  
+## 📱 Published Apps (Google Play)
+<table>
+  <tr>
+    <td width="120" valign="top">
+      <img src="logo_BerkBilim.png" width="120">
+    </td>
+    <td>
+<h3>🔹 Mental Arithmetic + Career Advisor</h3>
+Custom-speed arithmetic + job suggestion system.<br>
+
+<b>🧠 Mental Arithmetic:</b><br>
+• Choose number range (1–10000)<br>
+• Choose speed (very slow → ultra fast)<br>
+• Numbers appear one-by-one at chosen speed<br>
+• User calculates total mentally<br>
+• Enter final answer at the end<br>
+• App checks correctness & saves results<br>
+• Great for focus, accuracy, and brain training<br>
+
+<b>🎓 Career Advisor:</b><br>
+• 160 Yes/No questions<br>
+• Each Yes adds points to 1 of 10 career groups<br>
+• Example: questions 1, 11, 21… belong to group 1<br>
+• System finds the highest score at the end<br>
+• Suggests the most suitable job field<br>
+
+👉 <a href="https://play.google.com/store/apps/details?id=com.berk.bilim">Download</a>
+    </td>
+  </tr>
 </table>  
 <br>  
   
