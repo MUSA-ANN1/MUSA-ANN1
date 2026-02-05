@@ -22,32 +22,37 @@ I focus on practical projects that solve real problems.
 ---
 
 ## 📱 Published Apps (Google Play)
-<div style="display: flex; flex-wrap: wrap; align-items: center; margin-bottom: 20px; border: 1px solid #444; padding: 10px; border-radius: 10px;">
+<div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
+
   <!-- Logo -->
-  <div style="flex: 0 0 120px; text-align: center;">
-    <img src="logo_BerkBilim.png" alt="Mental Arithmetic Logo" style="width: 110px;" />
+  <div style="flex-shrink: 0; width: 90px;">
+    <img src="logo_BerkBilim.png" alt="Mental Arithmetic Logo" style="width: 100%; border-radius: 10px;" />
   </div>
 
   <!-- Text -->
-  <div style="flex: 1; min-width: 220px; padding-left: 15px;">
-    <h3>🔹 Mental Arithmetic + Career Advisor</h3>
+  <div style="flex: 1;">
+    <h3 style="margin: 0;">🔹 Mental Arithmetic + Career Advisor</h3>
     Custom-speed arithmetic + job suggestion system<br>
     👉 https://play.google.com/store/apps/details?id=com.berk.bilim
   </div>
+
 </div>
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; margin-bottom: 20px; border: 1px solid #444; padding: 10px; border-radius: 10px;">
+
+<div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
+
   <!-- Logo -->
-  <div style="flex: 0 0 120px; text-align: center;">
-    <img src="app2_logo.png" alt="Herbal Plants Logo" style="width: 110px;" />
+  <div style="flex-shrink: 0; width: 90px;">
+    <img src="app2_logo.png" alt="Herbal Plants Logo" style="width: 100%; border-radius: 10px;" />
   </div>
 
   <!-- Text -->
-  <div style="flex: 1; min-width: 220px; padding-left: 15px;">
-    <h3>🔹 Turkmenistanyn Dermanlyk Ösimlikleri</h3>
+  <div style="flex: 1;">
+    <h3 style="margin: 0;">🔹 Turkmenistanyn Dermanlyk Ösimlikleri</h3>
     Offline book, search, and favorites<br>
     👉 https://play.google.com/store/apps/details?id=com.medicine.kitaphana
   </div>
+
 </div>
 
 ---
