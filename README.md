@@ -31,20 +31,20 @@ I focus on practical projects that solve real problems.
       <h3>🔹 Mental Arithmetic + Career Advisor</h3>
       Custom-speed arithmetic + job suggestion system.<br><br>
 
-      <b>🧠 Mental Arithmetic:</b><br>
-      • User chooses number range (1–10000)<br>
-      • User chooses the speed (from very slow to ultra fast)<br>
-      • App shows numbers one by one at the selected speed<br>
-      • User must calculate the total mentally<br>
-      • After the last number, user enters the answer<br>
-      • App checks correctness and saves the result<br>
-      • Perfect for improving focus, reaction time, and brain calculation skills<br><br>
+      🧠 Mental Arithmetic:
+      • User chooses number range (1–10000)
+      • User chooses the speed (from very slow to ultra fast)
+      • App shows numbers one by one at the selected speed
+      • User must calculate the total mentally
+      • After the last number, user enters the answer
+      • App checks correctness and saves the result
+      • Perfect for improving focus, reaction time, and brain calculation skills
 
-      <b>🎓 Career Advisor:</b><br>
-      The career test uses <b>160 Yes/No questions</b> linked to <b>10 career groups</b>.<br>
-      Every “Yes” adds a point to one group.<br>
-      Example: question 1, 11, 21… all belong to the same category.<br>
-      After all questions, the app finds which group has the highest score and recommends a suitable career direction.<br><br>
+      🎓 Career Advisor:
+      The career test uses **160 Yes/No questions** linked to **10 career groups**.
+      Every “Yes” adds a point to one group.
+      Example: question 1, 11, 21… all belong to the same category.
+      After all questions, the app finds which group has the highest score and recommends a suitable career direction.
 
       👉 <a href="https://play.google.com/store/apps/details?id=com.berk.bilim">Download</a>
     </td>
