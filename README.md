@@ -31,7 +31,7 @@ I focus on practical projects that solve real problems.
 
   <!-- TextView -->
   <div style="font-size:15px;">
-    <b>Mental Arithmetic + Career Advisor</b><br>
+    <b>🔹 Mental Arithmetic + Career Advisor</b><br>
     Custom-speed arithmetic + job suggestion system<br>
     👉 https://play.google.com/store/apps/details?id=com.berk.bilim
   </div>
