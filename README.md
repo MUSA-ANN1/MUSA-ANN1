@@ -24,8 +24,8 @@ I focus on practical projects that solve real problems.
 ## 📱 Published Apps (Google Play)
 <table>
   <tr>
-    <td width="120">
-      <img src="logo_BerkBilim.png" width="120">
+    <td width="220">
+      <img src="logo_BerkBilim.png" width="220">
     </td>
     <td>
       <h3>🔹 Mental Arithmetic + Career Advisor</h3>
