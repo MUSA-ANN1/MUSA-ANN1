@@ -24,7 +24,7 @@ I focus on practical projects that solve real problems.
 ## 📱 Published Apps (Google Play)
 <table>
   <tr>
-    <td width="120">
+    <td width="120" valign="top">
       <img src="logo_BerkBilim.png" width="120">
     </td>
     <td>
@@ -55,7 +55,7 @@ Custom-speed arithmetic + job suggestion system.<br><br>
 
 <table>
   <tr>
-    <td width="120">
+    <td width="120" valign="top">
       <img src="logo_Dermanlyk.png" width="120">
     </td>
     <td>
