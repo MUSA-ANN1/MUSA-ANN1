@@ -22,53 +22,54 @@ I focus on practical projects that solve real problems.
 ---
 
 ## 📱 Published Apps (Google Play)
-<table>
+
+<table width="100%">
   <tr>
     <td width="120" valign="top">
       <img src="logo_BerkBilim.png" width="120">
     </td>
-    <td>
-<h3>🔹 Mental Arithmetic + Career Advisor</h3>
-Custom-speed arithmetic + job suggestion system.<br><br>
+    <td valign="top">
+      <h3>🔹 Mental Arithmetic + Career Advisor</h3>
+      Custom-speed arithmetic + job suggestion system.<br><br>
 
-<b>🧠 Mental Arithmetic:</b><br>
-• Choose number range (1–10000)<br>
-• Choose speed (very slow → ultra fast)<br>
-• Numbers appear one-by-one at chosen speed<br>
-• User calculates total mentally<br>
-• Enter final answer at the end<br>
-• App checks correctness & saves results<br>
-• Great for focus, accuracy, and brain training<br><br>
+      <b>🧠 Mental Arithmetic:</b><br>
+      • Choose number range (1–10000)<br>
+      • Choose speed (very slow → ultra fast)<br>
+      • Numbers appear one-by-one at chosen speed<br>
+      • User calculates total mentally<br>
+      • Enter final answer at the end<br>
+      • App checks correctness & saves results<br>
+      • Great for focus, accuracy, and brain training<br><br>
 
-<b>🎓 Career Advisor:</b><br>
-• 160 Yes/No questions<br>
-• Each Yes adds points to 1 of 10 career groups<br>
-• Example: questions 1, 11, 21… belong to group 1<br>
-• System finds the highest score at the end<br>
-• Suggests the most suitable job field<br><br>
+      <b>🎓 Career Advisor:</b><br>
+      • 160 Yes/No questions<br>
+      • Each Yes adds points to 1 of 10 career groups<br>
+      • Example: questions 1, 11, 21… belong to group 1<br>
+      • System finds the highest score at the end<br>
+      • Suggests the most suitable job field<br><br>
 
-👉 <a href="https://play.google.com/store/apps/details?id=com.berk.bilim">Download</a>
+      👉 <a href="https://play.google.com/store/apps/details?id=com.berk.bilim">Download</a>
     </td>
   </tr>
 </table>
+
 <br>
 
-<table>
+<table width="100%">
   <tr>
     <td width="120" valign="top">
       <img src="logo_Dermanlyk.png" width="120">
     </td>
-    <td>
+    <td valign="top">
       <h3>🔹 Türkmenistanyň Dermanlyk Ösimlikleri</h3>
       Offline book, search, and favorites.<br>
       Features <b>5 languages</b>: Turkmen, English, Russian, Japanese, Spanish.<br>
       Includes detailed descriptions, scientific names, and herbal uses for Turkmen medicinal plants.<br>
-      Fully offline, fast search, favorites system, clean UI optimized for reading.<br>
+      Fully offline, fast search, favorites system, clean UI optimized for reading.<br><br>
       👉 <a href="https://play.google.com/store/apps/details?id=com.medicine.kitaphana">Download</a>
     </td>
   </tr>
 </table>
-<br>
 
 ---
 
