@@ -47,7 +47,6 @@ I focus on practical projects that solve real problems.
       After all questions, the app finds which group has the highest score and recommends a suitable career direction.
 
       👉 <a href="https://play.google.com/store/apps/details?id=com.berk.bilim">Download</a>
-    </td>
   </tr>
 </table>
 <br>
