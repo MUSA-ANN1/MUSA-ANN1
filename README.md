@@ -23,15 +23,15 @@ I focus on practical projects that solve real problems.
 
 ## 📱 Published Apps (Google Play)
 
-<table width="100%">
+<table style="width:100%; table-layout: fixed;">
   <tr>
     <td>
-      <table width="100%">
+      <table style="width:100%; table-layout: fixed;">
         <tr>
-          <td width="120" valign="top">
+          <td style="width:120px; vertical-align:top;">
             <img src="logo_BerkBilim.png" width="120">
           </td>
-          <td>
+          <td style="vertical-align:top; padding-left:10px;">
 <h3>🔹 Mental Arithmetic + Career Advisor</h3>
 Custom-speed arithmetic + job suggestion system.<br><br>
 
@@ -55,13 +55,20 @@ Custom-speed arithmetic + job suggestion system.<br><br>
           </td>
         </tr>
       </table>
+    </td>
+  </tr>
+</table>
+<br>
 
-      <table width="100%">
+<table style="width:100%; table-layout: fixed;">
+  <tr>
+    <td>
+      <table style="width:100%; table-layout: fixed;">
         <tr>
-          <td width="120" valign="top">
+          <td style="width:120px; vertical-align:top;">
             <img src="logo_Dermanlyk.png" width="120">
           </td>
-          <td>
+          <td style="vertical-align:top; padding-left:10px;">
 <h3>🔹 Türkmenistanyň Dermanlyk Ösimlikleri</h3>
 Offline book, search, and favorites.<br>
 Features <b>5 languages</b>: Turkmen, English, Russian, Japanese, Spanish.<br>
@@ -71,15 +78,6 @@ Fully offline, fast search, favorites system, clean UI optimized for reading.<br
           </td>
         </tr>
       </table>
-    </td>
-  </tr>
-</table>
-<br>
-
-<table width="100%">
-  <tr>
-    <td>
-      
     </td>
   </tr>
 </table>
