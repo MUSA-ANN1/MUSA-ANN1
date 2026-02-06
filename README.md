@@ -72,6 +72,63 @@ Custom-speed arithmetic + job suggestion system.<br>
 </table>  
 <br>
 
+<table>  
+  <tr>  
+    <td width="120" valign="top">  
+      <img src="logo_Dermanlyk.png" width="120">  
+    </td>  
+    <td>  
+      <h3>🔹 Mini Chemistry Translator</h3>  
+      Offline chemistry term translator based on CSV data.<br>  
+      Includes fast search and instant results.<br>  
+      Covers essential chemistry terminology used in school-level study.<br>  
+      Lightweight, offline, and easy to use.<br><br>
+
+👉 <a href="https://play.google.com/store/apps/details?id=com.medicine.kitaphana">Download</a><br>
+👉 <a href="https://github.com/MUSA-ANN1/Turkmenistan-s-Medicinal-Plants-app">Source code</a>  
+    </td>  
+  </tr>  
+</table>   
+<br>
+
+<table>  
+  <tr>  
+    <td width="120" valign="top">  
+      <img src="logo_Dermanlyk.png" width="120">  
+    </td>  
+    <td>  
+      <h3>🔹 Türkmenistanyň Dermanlyk Ösimlikleri</h3>  
+      Offline book, search, and favorites.<br>  
+      Features <b>5 languages</b>: Turkmen, English, Russian, Japanese, Spanish.<br>  
+      Includes detailed descriptions, scientific names, and herbal uses for Turkmen medicinal plants.<br>  
+      Fully offline, fast search, favorites system, clean UI optimized for reading.<br><br>
+
+👉 <a href="https://play.google.com/store/apps/details?id=com.medicine.kitaphana">Download</a><br>
+👉 <a href="https://github.com/MUSA-ANN1/Turkmenistan-s-Medicinal-Plants-app">Source code</a>  
+    </td>  
+  </tr>  
+</table>   
+<br>
+
+<table>  
+  <tr>  
+    <td width="120" valign="top">  
+      <img src="logo_Dermanlyk.png" width="120">  
+    </td>  
+    <td>  
+      <h3>🔹 Türkmenistanyň Dermanlyk Ösimlikleri</h3>  
+      Offline book, search, and favorites.<br>  
+      Features <b>5 languages</b>: Turkmen, English, Russian, Japanese, Spanish.<br>  
+      Includes detailed descriptions, scientific names, and herbal uses for Turkmen medicinal plants.<br>  
+      Fully offline, fast search, favorites system, clean UI optimized for reading.<br><br>
+
+👉 <a href="https://play.google.com/store/apps/details?id=com.medicine.kitaphana">Download</a><br>
+👉 <a href="https://github.com/MUSA-ANN1/Turkmenistan-s-Medicinal-Plants-app">Source code</a>  
+    </td>  
+  </tr>  
+</table>   
+<br>
+
 ---
 
 ## 🛠 Current Projects
