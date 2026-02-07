@@ -99,14 +99,14 @@ Custom-speed arithmetic + job suggestion system.<br>
       <img src="logo_Dermanlyk.png" width="120">  
     </td>  
     <td>  
-      <h3>🔹 Türkmenistanyň Dermanlyk Ösimlikleri</h3>  
-      Offline book, search, and favorites.<br>  
-      Features <b>5 languages</b>: Turkmen, English, Russian, Japanese, Spanish.<br>  
-      Includes detailed descriptions, scientific names, and herbal uses for Turkmen medicinal plants.<br>  
-      Fully offline, fast search, favorites system, clean UI optimized for reading.<br><br>
+      <h3>🔹 </h3>  
+      <br>  
+      <b></b><br>  
+      <br>  
+      <br><br>
 
-👉 <a href="https://play.google.com/store/apps/details?id=com.medicine.kitaphana">Download</a><br>
-👉 <a href="https://github.com/MUSA-ANN1/Turkmenistan-s-Medicinal-Plants-app">Source code</a>  
+👉 <a href=""></a>
+👉 <a href=""></a>  
     </td>  
   </tr>  
 </table>   
