@@ -68,7 +68,8 @@ Custom-speed arithmetic + job suggestion system.<br>
 • System finds the highest score at the end<br>
 • Suggests the most suitable job field<br>
 
-👉 <a href="https://play.google.com/store/apps/details?id=com.berk.bilim">Download</a>
+👉 <a href="https://play.google.com/store/apps/details?id=com.berk.bilim">Download</a><br>
+👉 <a href="https://github.com/MUSA-ANN1/Berk-Bilim">Source code</a>
     </td>
   </tr>
 </table>  
