@@ -142,7 +142,20 @@ Custom-speed arithmetic + job suggestion system.<br>
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MUSA-ANN1&show_icons=true&theme=dark" />
+<picture>
+  <source 
+    srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=MUSA-ANN1&show_icons=true&theme=dark" 
+    media="(prefers-color-scheme: dark)" 
+  />
+  <source 
+    srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=MUSA-ANN1&show_icons=true&theme=default" 
+    media="(prefers-color-scheme: light)" 
+  />
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=MUSA-ANN1&show_icons=true" 
+    alt="GitHub Stats"
+  />
+</picture>
 
 ---
 
