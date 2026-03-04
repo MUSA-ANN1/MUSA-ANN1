@@ -21,7 +21,7 @@ I focus on practical projects that solve real problems.
 
 ---
 
-## 📱 Published Apps (Google Play)
+## 📱 Android Applications
 <table>  
   <tr>  
     <td width="120" valign="top">  
