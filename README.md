@@ -114,6 +114,26 @@ Custom-speed arithmetic + job suggestion system.<br>
 </table>
 <br>
 
+<table>  
+  <tr>  
+    <td width="120" valign="top">  
+      <img src="logo_Dermanlyk.png" width="120">  
+    </td>  
+    <td>  
+      <h3>🔹 Turkmen audiobook</h3>  
+      Simple and offline monthly payment counter for home utilities.<br>
+      Calculates water, gas, and electricity expenses.<br>
+      User can change tariff values anytime.<br>
+      Stores previous months’ data for quick comparison.<br>
+      Fast, minimal, and easy to use.<br><br>
+
+👉 <a href="#">Download</a><br>
+👉 <a href="#">Source code</a>  
+    </td>  
+  </tr>  
+</table>
+<br>
+
 ---
 
 ## 🛠 Current Projects
