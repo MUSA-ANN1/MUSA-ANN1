@@ -85,10 +85,7 @@ Custom-speed arithmetic + job suggestion system.<br>
 <br>
 
 <table>  
-  <tr>  
-    <td width="120" valign="top">  
-      <img src="logo_Dermanlyk.png" width="120">  
-    </td>  
+  <tr>
     <td>  
       <h3>🔹 Mini Chemistry Translator</h3>  
       Offline chemistry term translator based on CSV data.<br>  
@@ -104,10 +101,7 @@ Custom-speed arithmetic + job suggestion system.<br>
 <br>
 
 <table>  
-  <tr>  
-    <td width="120" valign="top">  
-      <img src="logo_Dermanlyk.png" width="120">  
-    </td>  
+  <tr>
     <td>  
       <h3>🔹 Töleg Counter</h3>  
       Simple and offline monthly payment counter for home utilities.<br>
@@ -124,10 +118,7 @@ Custom-speed arithmetic + job suggestion system.<br>
 <br>
 
 <table>  
-  <tr>  
-    <td width="120" valign="top">  
-      <img src="logo_Dermanlyk.png" width="120">  
-    </td>  
+  <tr> 
     <td>  
       <h3>🔹 Turkmen audiobook</h3>  
       Simple and offline monthly payment counter for home utilities.<br>
