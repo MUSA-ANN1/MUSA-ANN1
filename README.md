@@ -1,5 +1,13 @@
 # Android Developer | 3D/AR Enthusiast | CS Student
 **💫 Moses (Musa)**
+![Java](https://img.shields.io/badge/Java-FF0000?logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=white)
+![3ds Max](https://img.shields.io/badge/3ds%20Max-1DA1F2?logo=autodesk&logoColor=white)
 
 Hi, I’m **Musa**, also known as **Mufasa** online — an Android developer building apps that combine **clean UI, solid performance, and 3D/AR experiences**.  
 I focus on practical projects that solve real problems.
@@ -136,29 +144,11 @@ Custom-speed arithmetic + job suggestion system.<br>
 
 ---
 
-## 🛠 Current Projects
-- AR furniture placement app (Unity + Android)  
-- UI/UX upgrades for offline book app  
-
----
-
 ## 🎯 Goals
 - Build a polished AR app  
 - Improve 3D asset creation workflow  
 - Strengthen my portfolio for **MEXT**  
 - Release more clean, useful apps
-
----
-
-## 🛡️ Badges
-![Java](https://img.shields.io/badge/Java-FF0000?logo=openjdk&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=white)
-![3ds Max](https://img.shields.io/badge/3ds%20Max-1DA1F2?logo=autodesk&logoColor=white)
 
 ---
 
