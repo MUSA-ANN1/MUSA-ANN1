@@ -1,5 +1,5 @@
-# 💫 Moses (Musa)
-**Android Developer | 3D/AR Enthusiast | CS Student**
+# Android Developer | 3D/AR Enthusiast | CS Student
+**💫 Moses (Musa)**
 
 Hi, I’m **Musa**, also known as **Mufasa** online — an Android developer building apps that combine **clean UI, solid performance, and 3D/AR experiences**.  
 I focus on practical projects that solve real problems.
