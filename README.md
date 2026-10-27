@@ -1,5 +1,5 @@
 # Android Developer | 3D/AR Enthusiast | CS Student
-**Moses (Musa)**
+**Musa**
 
 ![Java](https://img.shields.io/badge/Java-FF0000?logo=openjdk&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
@@ -10,7 +10,7 @@
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=white)
 ![3ds Max](https://img.shields.io/badge/3ds%20Max-1DA1F2?logo=autodesk&logoColor=white)
 
-Hi, I’m **Musa**, also known as **Mufasa** online — an Android developer building apps that combine **clean UI, solid performance, and 3D/AR experiences**.  
+Hi, I’m **Musa** — an Android developer building apps that combine **clean UI, solid performance, and 3D/AR experiences**.  
 I focus on practical projects that solve real problems.
 
 ---
