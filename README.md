@@ -1,5 +1,5 @@
 # Android Developer | 3D/AR Enthusiast | CS Student
-**💫 Moses (Musa)**
+**Moses (Musa)**
 
 ![Java](https://img.shields.io/badge/Java-FF0000?logo=openjdk&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
@@ -15,7 +15,7 @@ I focus on practical projects that solve real problems.
 
 ---
 
-## 🚀 Skills
+## Skills
 - **Android Studio (Java/Kotlin)**
 - **Jetpack Compose**
 - **Unity + AR Foundation**
@@ -30,21 +30,21 @@ I focus on practical projects that solve real problems.
 
 ---
 
-## 📱 Android Applications
+## Android Applications
 <table>  
   <tr>  
     <td width="120" valign="top">  
       <img src="logo_Dermanlyk.png" width="120">  
     </td>  
     <td>  
-      <h3>🔹 Türkmenistanyň Dermanlyk Ösimlikleri</h3>  
+      <h3>Türkmenistanyň Dermanlyk Ösimlikleri</h3>  
       Offline book, search, and favorites.<br>  
       Features <b>5 languages</b>: Turkmen, English, Russian, Japanese, Spanish.<br>  
       Includes detailed descriptions, scientific names, and herbal uses for Turkmen medicinal plants.<br>  
       Fully offline, fast search, favorites system, clean UI optimized for reading.<br><br>
 
-👉 <a href="https://play.google.com/store/apps/details?id=com.medicine.kitaphana">Download</a><br>
-👉 <a href="https://github.com/MUSA-ANN1/Turkmenistan-s-Medicinal-Plants-app">Source code</a>  
+><a href="https://play.google.com/store/apps/details?id=com.medicine.kitaphana">Download</a><br><
+><a href="https://github.com/MUSA-ANN1/Turkmenistan-s-Medicinal-Plants-app">Source code</a><  
     </td>  
   </tr>  
 </table>   
@@ -56,12 +56,12 @@ I focus on practical projects that solve real problems.
       <img src="logo_BerkBilim.png" width="120">
     </td>
     <td>
-<h3>🔹 Berk bilim</h3>
+<h3>Berk bilim</h3>
 Mental Arithmetic + Career Advisor.<br>
 
 Custom-speed arithmetic + job suggestion system.<br>
 
-<b>🧠 Mental Arithmetic:</b><br>
+<b>Mental Arithmetic:</b><br>
 • Choose number range (1–10000)<br>
 • Choose speed (very slow → ultra fast)<br>
 • Numbers appear one-by-one at chosen speed<br>
@@ -70,15 +70,15 @@ Custom-speed arithmetic + job suggestion system.<br>
 • App checks correctness & saves results<br>
 • Great for focus, accuracy, and brain training<br>
 
-<b>🎓 Career Advisor:</b><br>
+<b>Career Advisor:</b><br>
 • 160 Yes/No questions<br>
 • Each Yes adds points to 1 of 10 career groups<br>
 • Example: questions 1, 11, 21… belong to group 1<br>
 • System finds the highest score at the end<br>
 • Suggests the most suitable job field<br>
 
-👉 <a href="https://play.google.com/store/apps/details?id=com.berk.bilim">Download</a><br>
-👉 <a href="https://github.com/MUSA-ANN1/Berk-Bilim">Source code</a>
+><a href="https://play.google.com/store/apps/details?id=com.berk.bilim">Download</a><br><
+><a href="https://github.com/MUSA-ANN1/Berk-Bilim">Source code</a><
     </td>
   </tr>
 </table>  
@@ -87,14 +87,14 @@ Custom-speed arithmetic + job suggestion system.<br>
 <table>  
   <tr>
     <td>  
-      <h3>🔹 Mini Chemistry Translator</h3>  
+      <h3>Mini Chemistry Translator</h3>  
       Offline chemistry term translator based on CSV data.<br>  
       Includes fast search and instant results.<br>  
       Covers essential chemistry terminology used in school-level study.<br>  
       Lightweight, offline, and easy to use.<br><br>
 
-👉 <a href="https://play.google.com/store/apps/details?id=com.medicine.kitaphana">Download</a><br>
-👉 <a href="https://github.com/MUSA-ANN1/Turkmenistan-s-Medicinal-Plants-app">Source code</a>  
+><a href="https://play.google.com/store/apps/details?id=com.medicine.kitaphana">Download</a><br><
+><a href="https://github.com/MUSA-ANN1/Turkmenistan-s-Medicinal-Plants-app">Source code</a><  
     </td>  
   </tr>  
 </table>   
@@ -103,15 +103,15 @@ Custom-speed arithmetic + job suggestion system.<br>
 <table>  
   <tr>
     <td>  
-      <h3>🔹 Töleg Counter</h3>  
+      <h3>Töleg Counter</h3>  
       Simple and offline monthly payment counter for home utilities.<br>
       Calculates water, gas, and electricity expenses.<br>
       User can change tariff values anytime.<br>
       Stores previous months’ data for quick comparison.<br>
       Fast, minimal, and easy to use.<br><br>
 
-👉 <a href="#">Download</a><br>
-👉 <a href="#">Source code</a>  
+><a href="#">Download</a><br><
+><a href="#">Source code</a><  
     </td>  
   </tr>  
 </table>
@@ -120,15 +120,15 @@ Custom-speed arithmetic + job suggestion system.<br>
 <table>  
   <tr> 
     <td>  
-      <h3>🔹 Turkmen audiobook</h3>  
+      <h3>Turkmen audiobook</h3>  
       Simple and offline monthly payment counter for home utilities.<br>
       Calculates water, gas, and electricity expenses.<br>
       User can change tariff values anytime.<br>
       Stores previous months’ data for quick comparison.<br>
       Fast, minimal, and easy to use.<br><br>
 
-👉 <a href="#">Download</a><br>
-👉 <a href="#">Source code</a>  
+><a href="#">Download</a><br><
+><a href="#">Source code</a><  
     </td>  
   </tr>  
 </table>
@@ -136,7 +136,7 @@ Custom-speed arithmetic + job suggestion system.<br>
 
 ---
 
-## 🎯 Goals
+## Goals
 - Build a polished AR app  
 - Improve 3D asset creation workflow  
 - Strengthen my portfolio for **MEXT**  
@@ -144,26 +144,18 @@ Custom-speed arithmetic + job suggestion system.<br>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-<picture>
-  <source 
-    srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=MUSA-ANN1&show_icons=true&theme=dark" 
-    media="(prefers-color-scheme: dark)" 
-  />
-  <source 
-    srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=MUSA-ANN1&show_icons=true&theme=default" 
-    media="(prefers-color-scheme: light)" 
-  />
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=MUSA-ANN1&show_icons=true" 
-    alt="GitHub Stats"
-  />
-</picture>
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MUSA-ANN1&show_icons=true&hide_border=true&theme=github_dark&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUSA-ANN1&layout=compact&hide_border=true&theme=github_dark" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=MUSA-ANN1&theme=github-dark-blue&hide_border=true" />
+</div>
 
 ---
 
-## 📫 Contact
+## Contact
 **Portifolio Web Site:** <a href="https://musa-ann1.github.io/My-portifolio-webSite">Link</a>  
 **Email:** musa.annaguliev@gmail.com  
 **Instagram:** <a href="https://www.instagram.com/musa.annaguliev">musa.annaguliev</a>  
