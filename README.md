@@ -147,7 +147,7 @@ Custom-speed arithmetic + job suggestion system.<br>
 ## GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MUSA-ANN1&show_icons=true&hide_border=true&theme=github_dark&count_private=true&include_all_commits=true" />
+  
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUSA-ANN1&layout=compact&hide_border=true&theme=github_dark" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=MUSA-ANN1&theme=github-dark-blue&hide_border=true" />
