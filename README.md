@@ -43,7 +43,7 @@ I focus on practical projects that solve real problems.
       Includes detailed descriptions, scientific names, and herbal uses for Turkmen medicinal plants.<br>  
       Fully offline, fast search, favorites system, clean UI optimized for reading.<br><br>
 
-><a href="https://play.google.com/store/apps/details?id=com.medicine.kitaphana">Download</a><br><
+><a href="https://play.google.com/store/apps/details?id=com.medicine.kitaphana">Download</a><<br>
 ><a href="https://github.com/MUSA-ANN1/Turkmenistan-s-Medicinal-Plants-app">Source code</a><  
     </td>  
   </tr>  
@@ -77,7 +77,7 @@ Custom-speed arithmetic + job suggestion system.<br>
 • System finds the highest score at the end<br>
 • Suggests the most suitable job field<br>
 
-><a href="https://play.google.com/store/apps/details?id=com.berk.bilim">Download</a><br><
+><a href="https://play.google.com/store/apps/details?id=com.berk.bilim">Download</a><<br>
 ><a href="https://github.com/MUSA-ANN1/Berk-Bilim">Source code</a><
     </td>
   </tr>
@@ -93,7 +93,7 @@ Custom-speed arithmetic + job suggestion system.<br>
       Covers essential chemistry terminology used in school-level study.<br>  
       Lightweight, offline, and easy to use.<br><br>
 
-><a href="https://play.google.com/store/apps/details?id=com.medicine.kitaphana">Download</a><br><
+><a href="https://play.google.com/store/apps/details?id=com.medicine.kitaphana">Download</a><<br>
 ><a href="https://github.com/MUSA-ANN1/Turkmenistan-s-Medicinal-Plants-app">Source code</a><  
     </td>  
   </tr>  
