@@ -110,7 +110,7 @@ Custom-speed arithmetic + job suggestion system.<br>
       Stores previous months’ data for quick comparison.<br>
       Fast, minimal, and easy to use.<br><br>
 
-><a href="#">Download</a><br><
+><a href="#">Download</a><<br>
 ><a href="#">Source code</a><  
     </td>  
   </tr>  
@@ -127,7 +127,7 @@ Custom-speed arithmetic + job suggestion system.<br>
       Stores previous months’ data for quick comparison.<br>
       Fast, minimal, and easy to use.<br><br>
 
-><a href="#">Download</a><br><
+><a href="#">Download</a><<br>
 ><a href="#">Source code</a><  
     </td>  
   </tr>  
